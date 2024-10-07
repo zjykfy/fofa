@@ -8,9 +8,3 @@
 123.117.234.79:8089
 123.112.240.21:5555
 123.117.237.113:8089
-www.cloudtu.net
-www.kodiplayer.cn
-www.hyun.tech
-56.uxcbl.cn
-8.217.81.30:6003
-cloudtu.net
