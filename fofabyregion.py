@@ -7,7 +7,7 @@ import time
 urls = {
     "https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJUaWFuamluIiAmJiBwcm90b2NvbD0iaHR0cCI%3D": "Tianjin_liantong.txt",
     "https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJaaGVqaWFuZyIgJiYgb3JnPSJDaGluYW5ldCIgJiYgcHJvdG9jb2w9Imh0dHAi": "Zhejiang_dianxin.txt",
-    "https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJISyI%3D": "Beijing_liantong.txt",
+    "https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJCZWlqaW5nIiAmJiBvcmc9IkNoaW5hIFVuaWNvbSBCZWlqaW5nIFByb3ZpbmNlIE5ldHdvcmsiICYmIHByb3RvY29sPSJodHRwIg%3D%3D": "Beijing_liantong.txt",
     "https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJTaGFuZ2hhaSIgJiYgb3JnPSJDaGluYSBUZWxlY29tIEdyb3VwIiAmJiBwcm90b2NvbD0iaHR0cCI%3D": "Shanghai_dianxin.txt",
     "https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJHdWFuZ2RvbmciICYmIG9yZz0iQ2hpbmFuZXQiICYmIHByb3RvY29sPSJodHRwIg%3D%3D": "Guangdong_dianxin.txt",
     "https://fofa.info/result?qbase64=InVkcHh5IiAmJiBjb3VudHJ5PSJDTiIgJiYgcmVnaW9uPSJKaWFuZ3N1IiAmJiBvcmc9IkNoaW5hbmV0IiAmJiBwcm90b2NvbD0iaHR0cCI%3D": "Jiangsu_dianxin.txt",
