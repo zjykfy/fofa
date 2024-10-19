@@ -12,12 +12,6 @@ urls = {
   #hubei
     "https://fofa.info/result?qbase64=KCJIVFRQIGNvcmUgc2VydmVyIGJ5IFJvemh1ayBJdmFuLzEuNyIgfHwgInVkcHh5IikgJiYgY291bnRyeT0iQ04iICYmIGNpdHk9Ind1aGFuIg%3D%3D": "Wuhan.txt",
 
-  #SX
-    "https://raw.githubusercontent.com/zjykfy/fofa/refs/heads/main/Shaanxi_dianxin.txt": "SX.txt",
-
-  #SX
-    "https://raw.githubusercontent.com/zjykfy/fofa/refs/heads/main/Taiyuan_dianxin.txt": "SX.txt",
-
 }
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
