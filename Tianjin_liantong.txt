@@ -36,6 +36,3 @@
 180.213.163.219:8000
 60.26.62.168:8000
 60.26.12.170:5000
-http://home-ct.fastlight.cn:8000
-http://home.fastlight.cn:8000
-
